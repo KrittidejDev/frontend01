@@ -1,3 +1,8 @@
+The front end created from the Figma design has been made responsive.
+made by react js telwind 
+
+By Krittidej jangAiem
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
